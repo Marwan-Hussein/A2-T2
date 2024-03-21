@@ -1,0 +1,3 @@
+B:/marwan programmer/VSCode projects/assignment/A2 T2/cmake-build-debug/CMakeFiles/A2_T2.dir
+B:/marwan programmer/VSCode projects/assignment/A2 T2/cmake-build-debug/CMakeFiles/edit_cache.dir
+B:/marwan programmer/VSCode projects/assignment/A2 T2/cmake-build-debug/CMakeFiles/rebuild_cache.dir
